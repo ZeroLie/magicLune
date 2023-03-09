@@ -122,7 +122,7 @@
                   <?php } ?>
                 </div>
                 
-                <a href="<?= base_url("magiclune/cardapio") ?>" class="btn purple-gradient"> Ver mais </a>
+                <a href="<?= base_url("cardapio") ?>" class="btn purple-gradient"> Ver mais </a>
 
             </div>
           </div>

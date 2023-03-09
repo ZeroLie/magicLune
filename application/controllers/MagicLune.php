@@ -45,7 +45,7 @@ class MagicLune extends MY_Controller {
         
         if($this->lune->salva_comentario())
         {
-            redirect(base_url("magiclune/index"));
+            redirect(base_url("magicLune/index"));
         }        
         
         $html = $this->load->view("admin/form_comentario", null, true);

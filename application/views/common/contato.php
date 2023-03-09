@@ -33,7 +33,7 @@
                     </div>
                 </div>
                     
-                    <a href="<?= base_url("magiclune/form_comentario") ?>"><img src="<?= base_url("assets/Img/contato.png") ?>" class="img-fluid" widht="100px" height="100px" title="Diga a sua experiência!" alt="Sample image with waves effect."></a>
+                    <a href="<?= base_url("form_comentario") ?>"><img src="<?= base_url("assets/Img/contato.png") ?>" class="img-fluid" widht="100px" height="100px" title="Diga a sua experiência!" alt="Sample image with waves effect."></a>
                     <p class="text-center"> <i class="far fa-smile-beam fa-spin"></i> Você já visitou a nossa loja? Conte a sua experiência! <i class="fas fa-heart red-text" aria-hidden="true"></i></p>
                     <br/>
 
